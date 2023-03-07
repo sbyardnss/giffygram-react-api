@@ -108,6 +108,22 @@
       "userId": 1,
       "date": "2023/3/6",
       "id": 11
+    },
+    {
+      "title": "do a kickflip",
+      "url": "https://media3.giphy.com/media/dYiUCF6g3efVZ45kr0/giphy.gif?cid=ecf05e47yn6daqu9oz9p6rw5qwu9xe23hxklcx3w0fbtibex&rid=giphy.gif&ct=g",
+      "story": "betcha cant",
+      "userId": 1,
+      "date": "2023/3/6",
+      "id": 12
+    },
+    {
+      "title": "baaaaaa",
+      "url": "https://media3.giphy.com/media/2JF4JY45MNKTu/giphy.gif?cid=ecf05e4705rao4fmrf738fe3roqf3fxvirze36z4k9vob1yp&rid=giphy.gif&ct=g",
+      "story": "crazy kids",
+      "userId": 1,
+      "date": "3/6/2023",
+      "id": 13
     }
   ],
   "userFavorites": [
@@ -139,7 +155,7 @@
   ],
   "messages": [
     {
-      "postUser": 1,
+      "userId": 1,
       "postRecipient": 2,
       "message": "what up ray dawg",
       "date": "2023/2/14",
@@ -147,7 +163,7 @@
       "id": 1
     },
     {
-      "postUser": 1,
+      "userId": 1,
       "postRecipient": 3,
       "message": "henlo",
       "date": "2023/2/14",
@@ -155,7 +171,7 @@
       "id": 2
     },
     {
-      "postUser": 1,
+      "userId": 1,
       "postRecipient": 3,
       "message": "numero dos",
       "date": "2023/2/14",
@@ -163,7 +179,7 @@
       "id": 3
     },
     {
-      "postUser": 1,
+      "userId": 1,
       "postRecipient": 3,
       "message": "yoyoyoyoyo",
       "date": "2023/2/14",
@@ -171,7 +187,7 @@
       "id": 4
     },
     {
-      "postUser": 2,
+      "userId": 2,
       "postRecipient": 1,
       "message": "hello daniella",
       "date": "2023/2/14",
@@ -179,7 +195,7 @@
       "id": 5
     },
     {
-      "postUser": 2,
+      "userId": 2,
       "postRecipient": 3,
       "message": "ohhhh yeahhhh",
       "date": "2023/2/14",
@@ -187,7 +203,7 @@
       "id": 6
     },
     {
-      "postUser": 1,
+      "userId": 1,
       "postRecipient": 2,
       "message": "something something",
       "date": "2023/2/14",
@@ -195,12 +211,20 @@
       "id": 7
     },
     {
-      "postUser": 1,
+      "userId": 1,
       "postRecipient": 3,
       "message": "cool beans",
       "date": "2023/2/14",
-      "read": false,
+      "read": true,
       "id": 8
+    },
+    {
+      "userId": 2,
+      "postRecipient": 1,
+      "message": "hello daniella",
+      "date": "2023/2/14",
+      "read": false,
+      "id": 9
     }
   ]
 }

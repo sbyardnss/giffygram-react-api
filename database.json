@@ -94,14 +94,6 @@
       "id": 10
     },
     {
-      "title": "radical dude",
-      "url": "https://media2.giphy.com/media/1dIpe4VlFpCZUTfIbH/200.webp?cid=ecf05e47yn6daqu9oz9p6rw5qwu9xe23hxklcx3w0fbtibex&rid=200.webp&ct=g",
-      "story": "wicked dawgggg",
-      "userId": 1,
-      "date": "2/4/2023",
-      "id": 11
-    },
-    {
       "title": "do a kickflip",
       "url": "https://media3.giphy.com/media/dYiUCF6g3efVZ45kr0/giphy.gif?cid=ecf05e47yn6daqu9oz9p6rw5qwu9xe23hxklcx3w0fbtibex&rid=giphy.gif&ct=g",
       "story": "betcha cant",
@@ -120,29 +112,24 @@
   ],
   "userFavorites": [
     {
-      "postId": 1,
-      "userId": 1,
-      "id": 7
-    },
-    {
-      "userId": 1,
-      "postId": 6,
-      "id": 8
-    },
-    {
-      "userId": 1,
-      "postId": 12,
-      "id": 9
-    },
-    {
       "userId": 2,
       "postId": 9,
       "id": 11
     },
     {
       "userId": 2,
-      "postId": 11,
-      "id": 12
+      "postId": 1,
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "postId": 7,
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "postId": 6,
+      "id": 16
     }
   ],
   "messages": [
@@ -215,8 +202,24 @@
       "postRecipient": 1,
       "message": "hello daniella",
       "date": "2023/2/14",
-      "read": false,
+      "read": true,
       "id": 9
+    },
+    {
+      "userId": 2,
+      "postRecipient": 1,
+      "message": "does this work?",
+      "date": "2023/3/8",
+      "read": true,
+      "id": 10
+    },
+    {
+      "userId": 2,
+      "postRecipient": 1,
+      "message": "NOWWWWWW IT WORKS?",
+      "date": "2023/3/8",
+      "read": false,
+      "id": 11
     }
   ]
 }

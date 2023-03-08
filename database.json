@@ -128,29 +128,24 @@
   ],
   "userFavorites": [
     {
-      "id": 1,
       "userId": 2,
-      "postId": 3
+      "postId": 9,
+      "id": 11
     },
     {
-      "postId": 6,
-      "userId": 1,
-      "id": 4
-    },
-    {
-      "postId": 8,
-      "userId": 1,
-      "id": 5
-    },
-    {
-      "postId": 3,
-      "userId": 1,
-      "id": 6
-    },
-    {
+      "userId": 2,
       "postId": 1,
+      "id": 14
+    },
+    {
       "userId": 1,
-      "id": 7
+      "postId": 7,
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "postId": 6,
+      "id": 16
     }
   ],
   "messages": [
@@ -207,7 +202,7 @@
       "postRecipient": 2,
       "message": "something something",
       "date": "2023/2/14",
-      "read": false,
+      "read": true,
       "id": 7
     },
     {
@@ -223,8 +218,24 @@
       "postRecipient": 1,
       "message": "hello daniella",
       "date": "2023/2/14",
-      "read": false,
+      "read": true,
       "id": 9
+    },
+    {
+      "userId": 2,
+      "postRecipient": 1,
+      "message": "does this work?",
+      "date": "2023/3/8",
+      "read": true,
+      "id": 10
+    },
+    {
+      "userId": 2,
+      "postRecipient": 1,
+      "message": "NOWWWWWW IT WORKS?",
+      "date": "2023/3/8",
+      "read": false,
+      "id": 11
     }
   ]
 }

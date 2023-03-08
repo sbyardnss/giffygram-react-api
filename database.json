@@ -120,16 +120,6 @@
   ],
   "userFavorites": [
     {
-      "id": 1,
-      "userId": 2,
-      "postId": 3
-    },
-    {
-      "postId": 3,
-      "userId": 1,
-      "id": 6
-    },
-    {
       "postId": 1,
       "userId": 1,
       "id": 7
@@ -138,6 +128,21 @@
       "userId": 1,
       "postId": 6,
       "id": 8
+    },
+    {
+      "userId": 1,
+      "postId": 12,
+      "id": 9
+    },
+    {
+      "userId": 2,
+      "postId": 9,
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "postId": 11,
+      "id": 12
     }
   ],
   "messages": [
@@ -194,7 +199,7 @@
       "postRecipient": 2,
       "message": "something something",
       "date": "2023/2/14",
-      "read": false,
+      "read": true,
       "id": 7
     },
     {
